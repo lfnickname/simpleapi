@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "name": "Sofa determined",
+    "tag": ["red", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/19_20.png",
+    "price": 150,
+    "type": "sofa"
+  },
+  {
+    "id": 2,
+    "name": "Sofa didactic",
+    "tag": ["blue", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://divanchik.ru/upload/resize_cache/iblock/90f/1100_900_1d7a58ff99b324185ccb5ad5dfbdb5e85/90fd6b3339fa0868371b06a9b931ad4a.png",
+    "price": 145,
+    "type": "sofa"
+  },
+  {
+    "id": 3,
+    "name": "Sofa direful",
+    "tag": ["green", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://loft-concept.ru/upload/iblock/d43/Divan_dvukhmestnyi_774_Velwish_green.png",
+    "price": 155,
+    "type": "sofa"
+  },
+  {
+    "id": 4,
+    "name": "Bed environmental",
+    "tag": ["blue", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://umilinegroup.ru/image/cache/catalog/demo/Coretto/MYeDYSON-v-synem-2-800x600.png",
+    "price": 103,
+    "type": "bed"
+  },
+  {
+    "id": 5,
+    "name": "Bed",
+    "tag": ["red", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://mebelmarket.su/upload/iblock/bf6/bf677dcf728bb141fc2c63521b3f3340.png",
+    "price": 113,
+    "type": "bed"
+  },
+  {
+    "id": 6,
+    "name": "Bed impossible",
+    "tag": ["green", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://ahdivan.ru/upload/resize_cache/iblock/7cc/1200_900_1/Krovat_York_Zelenyy_1.png",
+    "price": 93,
+    "type": "bed"
+  },
+  {
+    "id": 7,
+    "name": "Armchair unable",
+    "tag": ["green", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://www.mebel-mix.ru/image/cache/upload/iblock/af3/af3e4df5ac5a5747d9e8e58c11513f80-1000x1000.png",
+    "price": 53,
+    "type": "armchair"
+  },
+  {
+    "id": 8,
+    "name": "Armchair mad",
+    "tag": ["blue", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://zeelproject.com/uploads/posts/2021-08-18/1629292454_modern-blue-armchair.png",
+    "price": 43,
+    "type": "armchair"
+  },
+  {
+    "id": 9,
+    "name": "Armchair sour",
+    "tag": ["red", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/%D0%9E%D0%9A1bhrya%D0%9A%D0%A0_(1).png",
+    "price": 57,
+    "type": "armchair"
+  },
+  {
+    "id": 10,
+    "name": "Sofa bawdy",
+    "tag": ["red", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/19_20.png",
+    "price": 130,
+    "type": "sofa"
+  },
+  {
+    "id": 11,
+    "name": "Sofa bored",
+    "tag": ["blue", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://divanchik.ru/upload/resize_cache/iblock/90f/1100_900_1d7a58ff99b324185ccb5ad5dfbdb5e85/90fd6b3339fa0868371b06a9b931ad4a.png",
+    "price": 135,
+    "type": "sofa"
+  },
+  {
+    "id": 12,
+    "name": "Sofa pure",
+    "tag": ["green", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://loft-concept.ru/upload/iblock/d43/Divan_dvukhmestnyi_774_Velwish_green.png",
+    "price": 165,
+    "type": "sofa"
+  },
+  {
+    "id": 13,
+    "name": "Bed salty",
+    "tag": ["blue", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://umilinegroup.ru/image/cache/catalog/demo/Coretto/MYeDYSON-v-synem-2-800x600.png",
+    "price": 101,
+    "type": "bed"
+  },
+  {
+    "id": 14,
+    "name": "Bed flawless",
+    "tag": ["red", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://mebelmarket.su/upload/iblock/bf6/bf677dcf728bb141fc2c63521b3f3340.png",
+    "price": 123,
+    "type": "bed"
+  },
+  {
+    "id": 15,
+    "name": "Bed elderly",
+    "tag": ["green", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://ahdivan.ru/upload/resize_cache/iblock/7cc/1200_900_1/Krovat_York_Zelenyy_1.png",
+    "price": 98,
+    "type": "bed"
+  },
+  {
+    "id": 16,
+    "name": "Armchair spooky",
+    "tag": ["green", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://www.mebel-mix.ru/image/cache/upload/iblock/af3/af3e4df5ac5a5747d9e8e58c11513f80-1000x1000.png",
+    "price": 59,
+    "type": "armchair"
+  },
+  {
+    "id": 17,
+    "name": "Armchair wild",
+    "tag": ["blue", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://zeelproject.com/uploads/posts/2021-08-18/1629292454_modern-blue-armchair.png",
+    "price": 63,
+    "type": "armchair"
+  },
+  {
+    "id": 18,
+    "name": "Armchair alcoholic",
+    "tag": ["red", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/%D0%9E%D0%9A1bhrya%D0%9A%D0%A0_(1).png",
+    "price": 53,
+    "type": "armchair"
+  },
+  {
+    "id": 19,
+    "name": "Sofa bashful",
+    "tag": ["red", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/19_20.png",
+    "price": 162,
+    "type": "sofa"
+  },
+  {
+    "id": 20,
+    "name": "Sofa dark",
+    "tag": ["blue", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://divanchik.ru/upload/resize_cache/iblock/90f/1100_900_1d7a58ff99b324185ccb5ad5dfbdb5e85/90fd6b3339fa0868371b06a9b931ad4a.png",
+    "price": 137,
+    "type": "sofa"
+  },
+  {
+    "id": 21,
+    "name": "Sofa relevant",
+    "tag": ["green", "sofa"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://loft-concept.ru/upload/iblock/d43/Divan_dvukhmestnyi_774_Velwish_green.png",
+    "price": 175,
+    "type": "sofa"
+  },
+  {
+    "id": 22,
+    "name": "Bed funny",
+    "tag": ["blue", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://umilinegroup.ru/image/cache/catalog/demo/Coretto/MYeDYSON-v-synem-2-800x600.png",
+    "price": 111,
+    "type": "bed"
+  },
+  {
+    "id": 23,
+    "name": "Bed sincere",
+    "tag": ["red", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://mebelmarket.su/upload/iblock/bf6/bf677dcf728bb141fc2c63521b3f3340.png",
+    "price": 107,
+    "type": "bed"
+  },
+  {
+    "id": 24,
+    "name": "Bed classy",
+    "tag": ["green", "bed"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://ahdivan.ru/upload/resize_cache/iblock/7cc/1200_900_1/Krovat_York_Zelenyy_1.png",
+    "price": 99,
+    "type": "bed"
+  },
+  {
+    "id": 25,
+    "name": "Armchair defective",
+    "tag": ["green", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://www.mebel-mix.ru/image/cache/upload/iblock/af3/af3e4df5ac5a5747d9e8e58c11513f80-1000x1000.png",
+    "price": 62,
+    "type": "armchair"
+  },
+  {
+    "id": 26,
+    "name": "Armchair honorable",
+    "tag": ["blue", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://zeelproject.com/uploads/posts/2021-08-18/1629292454_modern-blue-armchair.png",
+    "price": 54,
+    "type": "armchair"
+  },
+  {
+    "id": 27,
+    "name": "Armchair impressive",
+    "tag": ["red", "armchair"],
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "url": "https://hortika-mebel.ru/data/medium/%D0%9E%D0%9A1bhrya%D0%9A%D0%A0_(1).png",
+    "price": 61,
+    "type": "armchair"
+  }
+]
+
