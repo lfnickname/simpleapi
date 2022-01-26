@@ -28,4 +28,4 @@ type: bed || sofa || armchair
 В зависимости от count query сервер фильтрует данные по условным страницам, возвращая общее количество страниц с count айтемов на странице в totalPages
 page query обязателен к count query, влияет на номер условной страницы, которую должен веннуть сервер в [entities]
 
-ответ в формате [[entities], totalPages]
+ответ в формате [item] для id query, в формате [[entities], totalPages] для остальных
